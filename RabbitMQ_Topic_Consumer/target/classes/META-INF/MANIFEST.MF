@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RabbitMQ_Topic_Consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 717753
+Implementation-Vendor-Id: RabbitMQ_Topic_Consumer
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/RabbitMQ_Top
+ ic_Consumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

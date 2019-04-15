@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootAsync
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 717753
+Implementation-Vendor-Id: com.howtodoinjava.example.asynch
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.howtodoinjava.example.asynch
+Created-By: Maven Integration for Eclipse
+
